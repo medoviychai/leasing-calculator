@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+  body {
+    margin: 0;
+    padding: 64px 36px;
+  }
+
+  .title {
+    width: 100%;
+    min-width: 320px;
+  }
+
+  .input-range {
+    width: 90%;
+  }
+
+  .result {
+    width: max-content;
+    min-width: 300px;
+  }
+
+  .result:first-child {
+    margin-right: 65px;
+  }
+}

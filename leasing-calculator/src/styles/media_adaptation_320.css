@@ -1,0 +1,78 @@
+@media (max-width: 320px) {
+  body {
+    margin: 0;
+    padding: 44px 20px;
+  }
+
+  .title {
+    font-size: 34px;
+    line-height: 30.6px;
+    min-width: 0px;
+    margin-bottom: 35px;
+  }
+
+  .input-box {
+    height: 60px;
+  }
+
+  .input-range {
+    width: 83%;
+  }
+
+  .calculations {
+    gap: 8px;
+    margin-bottom: 7px;
+  }
+
+  .calc-title {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .input-to-calc,
+  .input-sign,
+  .percent-sign {
+    font-size: 22px;
+  }
+
+  .anti-input {
+    position: relative;
+    top: 4px;
+  }
+
+  .persentage {
+    width: 67px;
+    height: 48px;
+  }
+  .percent-sign {
+    right: 9px;
+  }
+  .persentage input {
+    left: 1px;
+  }
+
+  .result-number {
+    margin-top: 0px;
+    font-size: 22px;
+  }
+
+  .result {
+    width: max-content;
+    min-width: 200px;
+    margin-bottom: 26px;
+  }
+
+  .result > p:not(.result-number) {
+    font-size: 14px;
+  }
+
+  .result:first-child {
+    margin-right: 0px;
+  }
+
+  .submit-button {
+    padding: 20px 51px -1px 51px;
+    height: 60px;
+    width: 280px;
+    font-size: 22px;
+  }
+}
