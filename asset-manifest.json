@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/leasing-calculator/static/css/main.6f5cdc6e.css",
+    "main.js": "/leasing-calculator/static/js/main.3a284a61.js",
+    "static/media/gilroy-regular.svg": "/leasing-calculator/static/media/gilroy-regular.752586d2b065c82fc6b1.svg",
+    "static/media/FontsFree-Net-Nekst-Black.ttf": "/leasing-calculator/static/media/FontsFree-Net-Nekst-Black.98d7d1431eb06a24be06.ttf",
+    "static/media/gilroy-regular.eot": "/leasing-calculator/static/media/gilroy-regular.1d051d9d4215c09cbcaa.eot",
+    "static/media/gilroy-regular.ttf": "/leasing-calculator/static/media/gilroy-regular.b91b0127c56a8e5f9e83.ttf",
+    "static/media/gilroy-regular.woff2": "/leasing-calculator/static/media/gilroy-regular.00b026798f05ff9d7752.woff2",
+    "index.html": "/leasing-calculator/index.html",
+    "static/media/gilroy-regular.woff": "/leasing-calculator/static/media/gilroy-regular.31d6cfe0d16ae931b73c.woff",
+    "main.6f5cdc6e.css.map": "/leasing-calculator/static/css/main.6f5cdc6e.css.map",
+    "main.3a284a61.js.map": "/leasing-calculator/static/js/main.3a284a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5cdc6e.css",
+    "static/js/main.3a284a61.js"
+  ]
+}
