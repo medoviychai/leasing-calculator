@@ -9,3 +9,5 @@ By clicking the “Submit Request” button, a request is generated that sends a
 ## Demo
 
 https://medoviychai.github.io/leasing-calculator/
+
+https://user-images.githubusercontent.com/90955335/193356080-7e509e7f-b44f-4a8d-8592-305c2b310b7b.mp4
